@@ -1,11 +1,29 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "locations": [
+        {
+            "clubName": "Indy K",
+            "type": "keyClub",
+            "latLng": {
+                "lat": 39.750307,
+                "lng": -80.999472
+            }
+        },
+        {
+            "clubName": "Indy North",
+            "type": "keyClub",
+            "latLng": {
+                "lat": 40.500307,
+                "lng": -85.999472
+            }
+        },
+        {
+            "clubName": "Indy South",
+            "type": "keyClub",
+            "latLng": {
+                "lat": 41.500307,
+                "lng": -83
+            }
+        },
+
+    ]
 }
