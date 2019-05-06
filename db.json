@@ -3,6 +3,12 @@
         {
             "clubName": "Indy K",
             "type": "keyClub",
+            "school": "NHS",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 39.750307,
                 "lng": -80.999472
@@ -11,6 +17,11 @@
         {
             "clubName": "Indy North",
             "type": "keyClub",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 40.500307,
                 "lng": -85.999472
@@ -19,6 +30,11 @@
         {
             "clubName": "Indy South",
             "type": "keyClub",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 41.500307,
                 "lng": -83
@@ -27,6 +43,16 @@
         {
             "clubName": "Indy East",
             "type": "CKI",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 38.750307,
                 "lng": -82.999472
@@ -35,6 +61,16 @@
         {
             "clubName": "South North",
             "type": "CKI",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 42.300307,
                 "lng": -84.599472
@@ -43,6 +79,16 @@
         {
             "clubName": "Ohio South",
             "type": "CKI",
+            "schoolAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 52.500307,
                 "lng": -81.4
@@ -50,6 +96,11 @@
         },
         {
             "clubName": "Detroit",
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "type": "KI",
             "latLng": {
                 "lat": 35.550307,
@@ -59,6 +110,11 @@
         {
             "clubName": "Michigan",
             "type": "KI",
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "latLng": {
                 "lat": 47.220307,
                 "lng": -81.1199472
@@ -66,6 +122,11 @@
         },
         {
             "clubName": "Ohio",
+            "meetingAddress": {
+                "street": "1234 My St",
+                "city": "Indianapolis",
+                "state": "IN"
+            },
             "type": "KI",
             "latLng": {
                 "lat": 43.90307,
