@@ -5,7 +5,7 @@
             "type": "keyClub",
             "school": "NHS",
             "schoolAddress": {
-                "street": "1234 My St",
+                "street": "1234 My School st.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -18,7 +18,7 @@
             "clubName": "Indy North",
             "type": "keyClub",
             "schoolAddress": {
-                "street": "1234 My St",
+                "street": "555 School Rd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -31,7 +31,7 @@
             "clubName": "Indy South",
             "type": "keyClub",
             "schoolAddress": {
-                "street": "1234 My St",
+                "street": "195 School Rd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -44,12 +44,12 @@
             "clubName": "Indy East",
             "type": "CKI",
             "schoolAddress": {
-                "street": "1234 My St",
-                "city": "Indianapolis",
-                "state": "IN"
+                "street": "",
+                "city": "",
+                "state": ""
             },
             "meetingAddress": {
-                "street": "1234 My St",
+                "street": "1234 College Blvd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -62,12 +62,12 @@
             "clubName": "South North",
             "type": "CKI",
             "schoolAddress": {
-                "street": "1234 My St",
+                "street": "23422 College Blvd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
             "meetingAddress": {
-                "street": "1234 My St",
+                "street": "333 College Blvd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -80,12 +80,12 @@
             "clubName": "Ohio South",
             "type": "CKI",
             "schoolAddress": {
-                "street": "1234 My St",
+                "street": "14 My College Blvd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
             "meetingAddress": {
-                "street": "1234 My St",
+                "street": "55 My College Blvd.",
                 "city": "Indianapolis",
                 "state": "IN"
             },
@@ -96,12 +96,12 @@
         },
         {
             "clubName": "Detroit",
+            "type": "KI",
             "meetingAddress": {
                 "street": "1234 My St",
                 "city": "Indianapolis",
                 "state": "IN"
             },
-            "type": "KI",
             "latLng": {
                 "lat": 35.550307,
                 "lng": -83.12472
@@ -122,12 +122,12 @@
         },
         {
             "clubName": "Ohio",
+            "type": "KI",            
             "meetingAddress": {
                 "street": "1234 My St",
                 "city": "Indianapolis",
                 "state": "IN"
             },
-            "type": "KI",
             "latLng": {
                 "lat": 43.90307,
                 "lng": -81.54
